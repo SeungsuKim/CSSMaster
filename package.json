@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Clones CSS of several websites",
   "scripts": {
-    "start": "parcel ./eCommerce/eCommerce.html"
+    "start": "parcel ./MealApp/mealApp.html"
   },
   "repository": {
     "type": "git",
